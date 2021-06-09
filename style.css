@@ -1,0 +1,103 @@
+body{
+    font-family: "Martel", serif;
+    background: black;
+}
+#container{
+    width:1000px;
+    height:580px;
+    background: url("./images/circle.jpg");
+    background-size: cover;
+    margin:50px auto;
+    position: relative;
+}
+/* alt+click to add text in more than one place
+ctrl+d to change multiple text
+shift+alt+up/down duplicate line up/dowmn
+alt+up/down move cursor */
+/* to see shadow  rtcick and click inspect element you can   
+to make curve around box change the x y  blur spread  */ 
+#calculator
+{
+    width:300px;
+    height: 550px;
+    background-color: #FFFFFF;
+    margin: 20px auto;
+    position: relative;
+    top:20px; 
+  
+    border-radius: 5px; 
+    
+    box-shadow: 2px 4px 1px 0 rgb(127,127,127);
+}
+#history
+{
+height:30px;
+text-align:right;
+margin:0 20px;
+padding:5px;
+font-size: 15px;
+color: #4C4B4F;
+/* background-color: blue; */
+}
+#output
+{
+height:60px;
+/* background-color:brown; */
+text-align:right;
+padding-top: 20px;
+margin:20px 20px;
+font-size: 30px;
+/* font-weight: 400; */
+color:#58149C;
+font-family: sans-serif;
+}
+#result
+{
+height: 150px;
+}
+#keyboard{
+height: 300px;
+}
+.operator,.number,.empty{
+    width: 40px;
+    height:40px;
+    /* margin: 15px; */
+    float: left;
+    border-radius: 50%;
+    padding: 10px;
+    margin:15px;
+    /* position: relative; */
+    border-width: 0px;
+    font-weight: 400;
+    font-size: 20px;
+}
+.number,.empty{
+    background-color: #FFFFFF;;
+}
+.operator,.number{
+    cursor: pointer;
+}
+.operator:active,.number:active{
+    font-size: 13px;
+}
+button:nth-child(4)
+{
+    background-color: #D17979;
+}
+button:nth-child(8)
+{
+    background-color: #CFCD84;
+}
+button:nth-child(12)
+{
+    background-color: #B2D6B5;
+}
+button:nth-child(16)
+{
+    background-color: #B2CDD6;
+}
+button:nth-child(20)
+{
+    background-color: #CC8FA5;
+}
+
