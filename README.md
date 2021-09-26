@@ -9,7 +9,7 @@
  <li>CSS3</li>
  <li>JavaScript</li>
 <h2>Screen Shots</h2>
- ![Calculator] (https://user-images.githubusercontent.com/72998655/134770284-27dfbb23-647e-4e21-a7f0-c3eb9c237a0a.png)
+![Calculator](https://user-images.githubusercontent.com/72998655/134797902-e72dba1f-e5a0-44ff-ad78-e7b20b9261ab.png)
 <h2 >Author</h2>
 <h3 >**Karthiga Rajkumar**</h3>
 
