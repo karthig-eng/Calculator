@@ -1,6 +1,6 @@
 # Calculator
 <h1 align="center">React JS Tutorial</h1>
-[Link ](https://karthig-eng.github.io/Tutorial/)
+[Link ]( https://karthig-eng.github.io/Calculator/)
 <h2 >Description</h2>
 <p aligh="justify">This is a simple calculator functionality achieved using Javascript. The logic is very simple with the minimum lines of code possible.</p>
 <h2>Built With</h2>
