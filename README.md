@@ -1,10 +1,10 @@
 
-<h1 align="center">Calculator </h1>
-[Link ]( https://karthig-eng.github.io/Calculator/)
-<h2 >Description</h2>
-<p aligh="justify">This is a simple calculator functionality achieved using Javascript. The logic is very simple with the minimum lines of code possible.</p>
-<h2>Built With</h2>
-<ul>
+ <h1 align="center">Calculator </h1>
+ [Link ]( https://karthig-eng.github.io/Calculator/)
+ <h2 >Description</h2>
+ <p aligh="justify">This is a simple calculator functionality achieved using Javascript. The logic is very simple with the minimum lines of code possible.</p>
+ <h2>Built With</h2>
+ <ul>
  <li>HTML5</li>
  <li>CSS3(Style/Presentation)</li>
  <li>JavaScript(Logic or Working of Calculator)</li>
